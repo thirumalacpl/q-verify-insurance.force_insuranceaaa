@@ -48,8 +48,8 @@
 
 <feature name="http://api.phonegap.com/1.0/device" />
 
-<gap:plugin name="org.apache.cordova.device-orientation" source="npm"/> 
-<gap:plugin name="org.apache.cordova.dialogs" source="npm"/> 
+<!-- <gap:plugin name="org.apache.cordova.device-orientation" source="npm"/> 
+ --><gap:plugin name="org.apache.cordova.dialogs" source="npm"/> 
 <gap:plugin name="org.apache.cordova.file" source="npm" /> 
 <gap:plugin name="org.apache.cordova.file-transfer" source="npm"/> 
 <gap:plugin name="org.apache.cordova.inappbrowser" source="npm"/> 
